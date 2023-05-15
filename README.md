@@ -1,3 +1,3 @@
 # 1FinalExam
 
-![diagramaUML](diagramaUML)
+![diagramaUML](diagramaUML.png)
