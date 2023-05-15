@@ -1,5 +1,6 @@
 # 1FinalExam
 //Diseño de arquitectura
+
 //Modelo (Model):
 El Modelo se encarga de gestionar los datos y la lógica de negocio de la aplicación. En este caso, el Modelo incluiría las clases y estructuras que representan los libros, como su título, autor, categoría y disponibilidad. Además, también sería responsable de realizar operaciones relacionadas con los libros, como buscar, reservar, comprar, devolver y actualizar su disponibilidad. El Modelo interactuará con la capa de persistencia para almacenar y recuperar los datos de los libros.
 
